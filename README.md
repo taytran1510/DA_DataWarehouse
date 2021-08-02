@@ -1,1 +1,2 @@
-# DA_DataWarehouse
+## Building data warehouse and analysis
+Usage: SQL server, Apache Hive, Power BI and other tool,...
